@@ -124,3 +124,5 @@ Contact
 ---
 
 You can reach me by [E-mail](mailto:996icu.repo@gmail.com) if you need.
+
+- Small documentation adjustment for 996.ICU. _(update 1, 2025-12-26 14:26:14 UTC)_
